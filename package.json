@@ -1,0 +1,20 @@
+{
+  "name": "friedger-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "tsx fetch.ts",
+    "simulate": "tsx aibtc.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@stacks/common": "^7.0.2",
+    "@stacks/transactions": "^7.1.0",
+    "bitcoin-tx-proof": "^1.0.0",
+    "stxer": "^0.4.2",
+    "tsx": "^4.20.3"
+  }
+}
