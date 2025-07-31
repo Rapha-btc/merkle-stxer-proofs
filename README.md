@@ -37,5 +37,7 @@ I can make the contract work with your hardcoded values, but I need to understan
 Any guidance would be greatly appreciated!
 
 **Repository with reproduction:** https://github.com/Rapha-btc/merkle-stxer-proofs
+successful simulation:
+https://stxer.xyz/simulations/mainnet/afb46a9be15357ffede06d0f63f8aa3b
 
 Thanks a lot, I appreciate you Master Friedger!
