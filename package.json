@@ -1,6 +1,7 @@
 {
   "name": "friedger-test",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "fetch": "tsx fetch.ts",
@@ -16,5 +17,8 @@
     "bitcoin-tx-proof": "^1.0.0",
     "stxer": "^0.4.2",
     "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
   }
 }
